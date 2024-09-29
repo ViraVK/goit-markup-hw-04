@@ -232,7 +232,7 @@ img {
 }
 
 .benefits-item-icon {
-display: flex;
+  display: flex;
   justify-content: center;
   align-items: center;
   width: 264px;
@@ -242,6 +242,7 @@ display: flex;
   background-color: #f4f4fd;
   margin-bottom: 8px;
 }
+
 .benefits-list-title {
   font-weight: 500;
   font-size: 20px;
